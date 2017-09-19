@@ -1,9 +1,9 @@
 # Flexbox navigation development
 
-This is a Flexbox demo of a navigation system inspired by NET Magazine March 2017 edition. The demo adpots 
+This is a Flexbox demo of a navigation system, inspired by NET Magazine March 2017 edition. The demo adpots 
 Flexbox as the primary layout methodolgy, I really wanted to see how it behaves over a plethora of devices
-with different vendors and versions. Constructed with Gulp to help with automation and optimisation.
+with different vendors and versions, since Flexbox has really only broken into the mainsteam. Constructed with Gulp to help with automation and optimisation.
 
-## Note 
+## Live Demo
 
-First time running Gulp, lots of code restructing to be done and applied to SASS files
+Click [here](https://www.iamchrismarks.com/flexbox/flexbox-nav) for a live demo 
