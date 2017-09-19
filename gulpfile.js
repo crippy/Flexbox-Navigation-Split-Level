@@ -54,7 +54,7 @@ gulp.task('compass', function(){
 	.pipe(compass({
 	  //load the ruby compass config **IMPORTANT**
       config_file: paths.styles.config,
-      css: paths.styles.css,http://localhost:3000/#
+      css: paths.styles.css,
       sass: paths.styles.sass
     }))
     .pipe(autoprefixer('last 2 versions', 'safari 5', 'ie 7', 'ie 8', 'ie 9', 'opera 12.1', 'ios 6', 'android 4'))
