@@ -45,7 +45,7 @@ gulp.task('copyHtml', function() {
 
 gulp.task('copyJs', function(){
 	return gulp.src('js/*.js')
-	.pipe(gulp.dest('js'));
+	.pipe(gulp.dest('dist/js'));
 });
 
 //gulp task for compass conversion
